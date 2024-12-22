@@ -1,0 +1,45 @@
+#box11 {
+    height: 500px;
+    width: 200px;
+    /*border-radius: 5%;*/
+    background-color: rgba(34, 36, 118, 0.922);
+    border-color: rgba(142, 94, 36, 0.856);
+    border-width: 15px;
+    border-style: double;
+    margin-left: 40%;
+}
+
+#red {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(244, 4, 4, 0.922);
+    margin-left: 25%;
+    margin-top: 25%;
+}
+
+#green {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(4, 244, 88, 0.922);
+    margin-left: 25%;
+    margin-top: 25%;
+}
+
+#yellow {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgb(255, 230, 1);
+    margin-left: 25%;
+    margin-top: 25%;
+}
+
+#stand {
+    height: 300px;
+    width: 20px;
+    background-color: rgb(60, 24, 94);
+    margin-top: 200;
+    margin-left: 47%;
+}
